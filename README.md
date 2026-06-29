@@ -237,21 +237,12 @@ Add your links here
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/Tamilselvan-AIengineer/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
 ---
 
-# 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 💡 Quote
 
