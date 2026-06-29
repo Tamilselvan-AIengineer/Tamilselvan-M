@@ -4,7 +4,7 @@
 
 ### 🚀 AI & Machine Learning Enthusiast | Full Stack Developer | ARTIFICIAL INTELLIGENCE Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;Python+%7C+Java+%7C+Flask+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=#00008B&center=true&vCenter=true&width=600&lines=AI+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;Python+%7C+Java+%7C+Flask+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/YOUR_USERNAME">
